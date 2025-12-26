@@ -1,0 +1,29 @@
+ *{
+    margin:0;
+    font-family: Arial;
+    font-size: 14px;
+    border: border-box;   
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(169, 169, 169, 0.786);
+}
+.background{
+    background-image: url("logo2.png");
+    height:900px;
+    width: 90%;
+    background-size:cover;
+    border-top-left-radius: 35.5%;
+    border-top-right-radius: 35.5%;
+    margin-left: 70px;
+    margin-top: 50px;
+ }
+
+/* .logo{
+    background-image: url("logo.png");
+    height:100px;
+    width: 150px;
+    background-size: cover;
+    opacity: 1.5;
+}  */
